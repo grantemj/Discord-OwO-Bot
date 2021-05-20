@@ -140,6 +140,18 @@
 		}
 	},
 	"uEmote":{
+		"bonk":{
+			"name":"bonk",
+			"msg":[
+				"? snuggles ?~ cute!",
+				"? cuddles ?~ adorable!",
+				"? cuddles ?~~ kyaaaa!!"
+			],
+			"self":[
+				"oh noo ;-; I'll cuddle you ?...",
+				"D-do you need a hug ?...?"
+			]
+		},
 		"cuddle":{
 			"name":"cuddle",
 			"msg":[
